@@ -1,4 +1,4 @@
-Reder Telecom is facing an increasing rate of customer churn, which is the percentage of customers who switch to competitors' services or terminate their subscriptions. The telecommunications industry is highly competitive, with multiple players offering similar services, and retaining existing customers is becoming increasingly difficult. 
+Redcom Telecom is facing an increasing rate of customer churn, which is the percentage of customers who switch to competitors' services or terminate their subscriptions. The telecommunications industry is highly competitive, with multiple players offering similar services, and retaining existing customers is becoming increasingly difficult. 
 
  
 
